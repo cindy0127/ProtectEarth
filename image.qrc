@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/halo.png</file>
+        <file>image/play.png</file>
+        <file>image/starpath.png</file>
+        <file>image/ufo1.png</file>
+        <file>image/ufo2.png</file>
+        <file>image/ufo3.png</file>
+        <file>image/universe.png</file>
+        <file>image/house.png</file>
+    </qresource>
+</RCC>
